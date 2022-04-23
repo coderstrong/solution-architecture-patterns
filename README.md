@@ -59,6 +59,9 @@ This repository contains solution architecture patterns which can be reused to b
 - Microservices with NATS messaging
 [Microservices with NATS messaging](vendor-neutral/Microservices-with-NATS-messaging.md)
 
+- Microservices without Service Mesh pattern
+[Microservices without Service Mesh](vendor-neutral/Microservices-without-service-mesh-pattern.md)
+
 - Microservices Security Pattern - Policy based
 [Microservices Security Pattern - Policy based](vendor-neutral/Microservices-Security-Pattern-Policy-Based.md)
 
@@ -129,6 +132,7 @@ These patterns are specific to a vendor and some of the terminology used in thes
 - Awesome scalability [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
 - Awesome design patterns [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns)
 - Awesome distributed systems [Awesome distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
+- Technology Architecture Lessons[Technology Architecture Lessons](https://www.developertoarchitect.com/lessons/)
 
 # License details
 
